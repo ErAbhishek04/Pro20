@@ -1,0 +1,24 @@
+#a{
+    display: grid;
+      flex-direction: row;
+      grid-template-columns: auto auto auto auto auto;
+      padding-left: 30px;
+    }
+    #c , #f{
+      border-style: solid;
+      margin-left: 20px;
+    }
+    
+    #b ,  #e{
+    border-style: solid;
+    
+    
+    }
+    #d{
+      padding-left: 50px;
+    }
+    .footer{
+      margin-left : 80px;
+      font-size : 18px;
+    }
+    
